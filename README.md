@@ -8,7 +8,7 @@ Bu proje, Nmap tarama sonuçlarını analiz eden ve yerel çalışan bir LLM (b�
 ![Nmap](https://img.shields.io/badge/Nmap-Installed-success)
 ![Ollama](https://img.shields.io/badge/Ollama-Required-orange)
 ![LLM](https://img.shields.io/badge/LLM-Local-lightgrey)
-
+'''
 ## 📌 Proje Özeti
 
 **NmapLLM**, ağ taraması sonucunda elde edilen verileri yerel çalışan bir LLM (büyük dil modeli) ile analiz ederek Türkçe açıklamalar sunan bir güvenlik analiz aracıdır.
