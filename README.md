@@ -25,9 +25,6 @@ Bu araç, siber güvenlik uzmanlarının iş yükünü azaltmayı ve potansiyel 
   - Post-exploitation önerileri (kalıcılık, yanal hareket)
   - Savunma önlemleri (hardening, IDS/IPS)
   - OPSEC uyarıları (log temizleme, gizlilik)
-
-## 📷 Ekran Görüntüsü
-
 ```
 
 🎯 Hedef IP veya domain girin: 192.168.1.10
